@@ -28,7 +28,7 @@ To get started with this project:
 4. You can start the project locally using command `pnpm start`
 5. You can deploy the project to Deno using command `pnpm deploy:prod`
 
-#### Configuration
+#### Configuration:
 
 1. Get ur `OPENAI_API_KEY` from openai and update the `.env` file.
 2. From Vapi dashboard, you can get your Vapi Private key from **Dashboard > Accounts > Vapi Keys > Api Key** and update `.env` file
