@@ -2,7 +2,7 @@
 
 Welcome to the Vapi sample project using deno. This project demonstrates how you can extend the functionalities of Vapi, an abstraction layer for your personal assistant, to create a unique experience tailored for story writers. Using this project, writers can design characters for their stories through voice interactions with the assistant.
 
-## Project Overview
+## Project Overview.
 
 The project showcases the following customizations:
 
